@@ -1,0 +1,27 @@
+{
+  "name": "oneoffmeals",
+  "version": "1.0.0",
+  "description": "Oneoffmeals meal booking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardAdesina/oneoffmeals.git"
+  },
+  "keywords": [
+    "Meal",
+    "Booking",
+    "App"
+  ],
+  "author": "Adesina Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardAdesina/oneoffmeals/issues"
+  },
+  "homepage": "https://github.com/BernardAdesina/oneoffmeals#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

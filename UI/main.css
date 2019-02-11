@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color:white;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+#brandlogo {
+    float: left;
+    margin-left: 40px;
+}
+.signin {
+    float: right;
+    background-color: #E95225;
+    padding: 10px;
+    margin-bottom:10px;
+    border-radius: 10%;
+}
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	border-radius:9px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:10px 10px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#E95225;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+#searchbar {
+    float: left;
+    padding: 150px 50px 50px 100px;
+    margin-left: 150px
+}
+#foodsample {
+    float: right;
+}
+.howitworks {
+    clear: both;
+    text-align: center;
+}
+.inputbox {
+    padding: 10px;
+
+}
+.svgposition {
+    margin-left: 30px;
+}
+#signinform {
+    float: none;
+    margin-left: 800px;
+    padding-top: 30px
+}
+.htags {
+    text-align: center;
+}
+#signupform {
+    float: left;
+    margin-left: 100px;
+}
+.floatdiv {
+    float: left;
+    padding: 20px 30px 10px 100px;
+}
+.spacediv {
+    padding: 100px 0px 100px 0px;
+}
